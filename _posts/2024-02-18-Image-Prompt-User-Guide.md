@@ -13,18 +13,16 @@ Unlock the potential of image prompts, a dynamic tool for infusing your animatio
 To utilize image prompts, simply toggle the switch located under the text prompt box to access the image selector.
 
 <img width="297" alt="Screenshot 2024-02-18 at 8 29 13 AM" src="https://github.com/deforum/deforum.github.io/assets/94883769/b5266a8c-4a90-45af-b8f8-2b7818ca8030">
-<img width="506" alt="Screenshot 2024-02-18 at 8 30 29 AM" src="https://github.com/deforum/deforum.github.io/assets/94883769/116485c9-4ffa-48c0-92ae-ee06d0b0001c">
-<img width="518" alt="image" src="https://github.com/deforum/deforum.github.io/assets/94883769/5b06a7f2-c256-4962-a490-59be7437a3c8">
 
 Upon activation, a new section dedicated to image prompts will appear. Here's how to proceed:
 - Click within the image window to upload an image from your computer or utilize drag and drop functionality.
 - Supported formats include JPEG and PNG, with a file size limit of 5MB.
 
-[image here]
+<img width="506" alt="Screenshot 2024-02-18 at 8 30 29 AM" src="https://github.com/deforum/deforum.github.io/assets/94883769/116485c9-4ffa-48c0-92ae-ee06d0b0001c">
 
 Additionally, you'll find an image influence slider designed to blend between image and text prompts. The slider offers five strength settings ranging from very low to very high.
 
-[image here]
+<img width="518" alt="image" src="https://github.com/deforum/deforum.github.io/assets/94883769/5b06a7f2-c256-4962-a490-59be7437a3c8">
 
 You have the flexibility to generate your animation solely from an image by setting the influence to very high. Alternatively, combine text prompts and prompt styles with an image prompt using lower influence settings. For a closer reproduction of the original image, set the prompt style to none and either leave the text prompt blank or input text that aligns with your image. Motion presets can also be applied in conjunction with image prompts.
 
