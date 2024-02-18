@@ -12,7 +12,9 @@ Unlock the potential of image prompts, a dynamic tool for infusing your animatio
 
 To utilize image prompts, simply toggle the switch located under the text prompt box to access the image selector.
 
-[image here]
+<img width="297" alt="Screenshot 2024-02-18 at 8 29 13 AM" src="https://github.com/deforum/deforum.github.io/assets/94883769/b5266a8c-4a90-45af-b8f8-2b7818ca8030">
+<img width="506" alt="Screenshot 2024-02-18 at 8 30 29 AM" src="https://github.com/deforum/deforum.github.io/assets/94883769/116485c9-4ffa-48c0-92ae-ee06d0b0001c">
+<img width="518" alt="image" src="https://github.com/deforum/deforum.github.io/assets/94883769/5b06a7f2-c256-4962-a490-59be7437a3c8">
 
 Upon activation, a new section dedicated to image prompts will appear. Here's how to proceed:
 - Click within the image window to upload an image from your computer or utilize drag and drop functionality.
